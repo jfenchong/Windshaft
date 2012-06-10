@@ -19,7 +19,7 @@
         "step": "0.0.x",
         "grainstore": "0.2.0",
   		"generic-pool": "1.0.x",
-        "express": "2.4.3",
+        "express": "2.5.9",
         "tilelive": "4.0.4",
         "tilelive-mapnik-cartodb": "git://github.com/jfenchong/tilelive-mapnik.git",
         "redis": "0.6.7",

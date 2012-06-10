@@ -17,7 +17,7 @@
     "dependencies": {
         "underscore"  : "1.1.x",
         "step": "0.0.x",
-        "grainstore": "0.2.0",
+        "grainstore": "git://github.com/jfenchong/grainstore.git",
   		"generic-pool": "1.0.x",
         "express": "2.5.9",
         "tilelive": "4.3.0",
